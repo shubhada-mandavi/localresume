@@ -1,0 +1,30 @@
+body
+{
+  background-color: #C9CCD5
+}
+
+hr {
+  background-color: #C9CCD5;
+  width: 5%;
+  border-style: dotted none none;
+  height: 0;
+  border-color: grey;
+  border-width: 5px;
+}
+
+h1
+{ font-style:oblique;
+  color: #11324D;
+  text-align: center;
+  font-size: 50px;
+
+  font-family:cursive;
+}
+h3
+{
+  color: #11324D;
+
+  font-size: 15px;
+
+  font-family:cursive;
+}
